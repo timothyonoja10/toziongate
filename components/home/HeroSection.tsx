@@ -64,7 +64,7 @@ export default function HeroSection() {
 
         <div className="mt-8 flex flex-wrap gap-4">
           <a
-            href="/services"
+            href="/about"
             className="px-6 py-3 rounded-xl bg-[#FF0066] text-white font-medium hover:bg-[#222A8C] transition"
           >
             Find out more
