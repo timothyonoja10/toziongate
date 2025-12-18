@@ -1,6 +1,15 @@
 
 export const programmes = [
   {
+    title: "International School Application",
+    description:
+      "End-to-end support for international study, work, and relocation applications, including admission guidance, visa documentation, and application strategy.",
+    image: "/international.jpg",
+    primaryCta: "Apply Now",
+    secondaryCta: "Speak With Us",
+    link: "/services/international-application",
+  },
+  {
     title: "NHS & HSC Career Support",
     description:
       "Expert guidance for NHS and HSC job applications, compliance documentation, and interview preparation to help you secure rewarding roles in health and social care.",

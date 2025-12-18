@@ -22,8 +22,8 @@ export default function WhyChooseSecton() {
             Comprehensive Career Support
           </h3>
           <p className="mt-3 text-sm text-gray-600">
-            We offer a wide range of services including NHS and HSC job application
-            support, professional CV writing, personal statement guidance,
+            We offer a wide range of services including job search, interview training,
+            international school application, professional CV writing, personal statement guidance,
             academic assistance, and postgraduate study support tailored to your
             career goals.
           </p>
