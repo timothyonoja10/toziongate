@@ -42,7 +42,9 @@ export default function Navbar() {
 
         {/* Website Name (Always left) */}
         <div className="text-lg font-bold text-[#222A8C]">
-          Toziongate
+          <Link href="/">
+            Toziongate
+          </Link>
         </div>
 
         {/* Desktop Navigation */}
