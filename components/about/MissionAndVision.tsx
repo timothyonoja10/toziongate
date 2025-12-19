@@ -15,7 +15,7 @@ export default function MissionAndVisionSection() {
           <div className="overflow-hidden border bg-white shadow-lg">
             <div className="relative h-52 w-full">
               <Image
-                src="/mission.jpg"
+                src="/about/mission.jpg"
                 alt="Our Mission"
                 fill
                 className="object-cover"
@@ -38,7 +38,7 @@ export default function MissionAndVisionSection() {
           <div className="overflow-hidden border bg-white shadow-lg">
             <div className="relative h-52 w-full">
               <Image
-                src="/vision.jpg"
+                src="/about/vision.jpg"
                 alt="Our Vision"
                 fill
                 className="object-cover"

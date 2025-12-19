@@ -4,7 +4,7 @@ export const programmes = [
     title: "International School Application",
     description:
       "End-to-end support for international study, work, and relocation applications, including admission guidance, visa documentation, and application strategy.",
-    image: "/international.jpg",
+    image: "/home/international.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Speak With Us",
     link: "/services/international-application",
@@ -13,7 +13,7 @@ export const programmes = [
     title: "NHS & HSC Career Support",
     description:
       "Expert guidance for NHS and HSC job applications, compliance documentation, and interview preparation to help you secure rewarding roles in health and social care.",
-    image: "/nurses.jpg",
+    image: "/home/nurses.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Speak With Us",
     link: "/services/nhs",
@@ -22,7 +22,7 @@ export const programmes = [
     title: "UK-Accredited Training & Certifications",
     description:
       "Access industry-recognized training including Health & Social Care Levels 2–5, Functional Skills Maths & English, Door Supervisor, CCTV, and CSCS certifications.",
-    image: "/graduation.jpg",
+    image: "/home/graduation.jpg",
     primaryCta: "Enroll Now",
     secondaryCta: "Learn More", 
     link: "/services/training",
@@ -31,7 +31,7 @@ export const programmes = [
     title: "Professional CV & Personal Statements",
     description:
       "Stand out with professionally written CVs and tailored personal statements designed to meet employer and institutional standards.",
-    image: "/cv.jpg",
+    image: "/home/cv.jpg",
     primaryCta: "Get Started",
     secondaryCta: "Speak With Us",
     link: "/services/cv-writing",
@@ -40,7 +40,7 @@ export const programmes = [
     title: "Academic & Postgraduate Support",
     description:
       "Comprehensive academic guidance including coursework support, dissertation assistance, and postgraduate admission help.",
-    image: "/writing.jpg",
+    image: "/home/writing.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Learn More",
     link: "/services/postgraduate",

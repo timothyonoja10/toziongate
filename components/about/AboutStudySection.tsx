@@ -9,7 +9,7 @@ export default function AboutStudySection() {
         {/* WHO WE ARE (2/3 width on tablet & desktop) */}
         <div className="md:col-span-2 bg-white shadow-lg overflow-hidden">
           <div className="relative h-68 w-full">
-            <Image src="/about-us.jpg" alt="Who we are" fill className="h-44 object-cover"/>
+            <Image src="/about/about-us.jpg" alt="Who we are" fill className="h-44 object-cover"/>
           </div>
 
           <div className="p-6 md:p-8">
