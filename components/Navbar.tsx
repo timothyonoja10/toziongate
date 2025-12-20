@@ -32,7 +32,7 @@ export default function Navbar() {
           <select
             value={currency}
             onChange={(e) => setCurrency(e.target.value)}
-            className="border border-gray-300 rounded px-2 py-1 text-sm focus:outline-none focus:ring-1 focus:ring-blue-500"
+            className="text-black border border-gray-300 rounded px-2 py-1 text-sm focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
             <option value="£">£</option>
             <option value="$">$</option>
@@ -97,14 +97,14 @@ export default function Navbar() {
             <div className="absolute right-0 mt-2 w-40 bg-white border shadow-lg rounded-lg flex flex-col">
               <Link
                 href="/login"
-                className="px-4 py-2 text-sm hover:bg-gray-100"
+                className="px-4 text-black py-2 text-sm hover:bg-gray-100"
                 onClick={() => setMobileAuthOpen(false)}
               >
                 Login
               </Link>
               <Link
                 href="/register"
-                className="px-4 py-2 text-sm hover:bg-gray-100"
+                className="px-4 text-black py-2 text-sm hover:bg-gray-100"
                 onClick={() => setMobileAuthOpen(false)}
               >
                 Register

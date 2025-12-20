@@ -14,7 +14,7 @@ export default function FormInput({ label, name, type = "text" }: any) {
         type={type}
         required
         placeholder={`Enter your ${label.toLowerCase()}`}
-        className="w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-[#222A8C] focus:outline-none"
+        className="w-full text-black rounded-lg border border-gray-300 px-4 py-2 focus:border-[#222A8C] focus:outline-none"
       />
     </div>
   );

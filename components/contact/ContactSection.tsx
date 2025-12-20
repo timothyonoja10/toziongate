@@ -53,7 +53,7 @@ export default function ContactSection() {
                 Your Message
               </label>
               <textarea id="message" name="message" rows={4} required placeholder="Type your message here"
-                className="w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-[#222A8C] focus:outline-none"
+                className="w-full text-black rounded-lg border border-gray-300 px-4 py-2 focus:border-[#222A8C] focus:outline-none"
               />
             </div>
 

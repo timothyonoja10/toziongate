@@ -16,7 +16,7 @@ export default function MapExploreSecton() {
         <div className="bg-white border shadow-md overflow-hidden flex flex-col">
           {/* Image */}
           <div className="relative h-56 w-full">
-            <Image src="/future.jpg" alt="Career Guidance" fill className="object-cover"/>
+            <Image src="/home/future.jpg" alt="Career Guidance" fill className="object-cover"/>
           </div>
       
           {/* Content */}

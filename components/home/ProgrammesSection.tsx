@@ -38,7 +38,7 @@ export default function ProgrammesSecton() {
                   {item.primaryCta}
                 </Link>
           
-                <Link href="/contact" className="px-5 py-2 rounded-lg border border-gray-300 text-sm font-medium hover:bg-gray-100">
+                <Link href="/contact" className="px-5 py-2 rounded-lg border border-gray-300 text-black text-sm font-medium hover:bg-gray-100">
                   {item.secondaryCta}
                 </Link>
               </div>
