@@ -7,7 +7,7 @@ export const programmes = [
     image: "/home/international.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Speak With Us",
-    link: "/services/international-application",
+    link: "/programmes/international-school-application",
   },
   {
     title: "NHS & HSC Career Support",
@@ -16,7 +16,7 @@ export const programmes = [
     image: "/home/nurses.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Speak With Us",
-    link: "/services/nhs",
+    link: "/programmes/hsc",
   },
   {
     title: "UK-Accredited Training & Certifications",
@@ -24,8 +24,8 @@ export const programmes = [
       "Access industry-recognized training including Health & Social Care Levels 2–5, Functional Skills Maths & English, Door Supervisor, CCTV, and CSCS certifications.",
     image: "/home/graduation.jpg",
     primaryCta: "Enroll Now",
-    secondaryCta: "Learn More", 
-    link: "/services/training",
+    secondaryCta: "Speak With Us", 
+    link: "/programmes/uk-accreditted-training",
   },
   {
     title: "Professional CV & Personal Statements",
@@ -34,7 +34,7 @@ export const programmes = [
     image: "/home/cv.jpg",
     primaryCta: "Get Started",
     secondaryCta: "Speak With Us",
-    link: "/services/cv-writing",
+    link: "/programmes/professional-cv-writingg",
   },
   {
     title: "Academic & Postgraduate Support",
@@ -43,6 +43,6 @@ export const programmes = [
     image: "/home/writing.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Learn More",
-    link: "/services/postgraduate",
+    link: "/programmes/postgraduate",
   },
 ];

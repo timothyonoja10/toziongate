@@ -34,7 +34,7 @@ export default function MapExploreSecton() {
       
             {/* CTA */}
             <div className="mt-6">
-              <Link href="/services" className="inline-block text-center px-5 py-3 text-sm 
+              <Link href="/contact" className="inline-block text-center px-5 py-3 text-sm 
                 font-medium rounded-md bg-[#FF0066] text-white hover:bg-blue-700 transition">
                 Get Started
               </Link>

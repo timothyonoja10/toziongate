@@ -28,7 +28,7 @@ export default function AboutStudySection() {
 
         {/* WHY STUDY WITH US (1/3 width) */}
         <div className="flex flex-col gap-3">
-          <h2 className="mb-4 text-lg text-center text-[#222A8C] font-bold">
+          <h2 className="mb-4 text-xl text-center text-[#222A8C] font-bold">
             Why Study With Us?
           </h2>
           <WhyCard icon={<GraduationCap size={32} />} title="Globally Recognised Qualifications"

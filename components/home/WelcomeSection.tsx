@@ -1,7 +1,7 @@
 
 export default function WelcomeSecton() {
   return (
-    <div className="bg-white max-w-full mx-auto px-8 pt-12 pb-12">
+    <div className="bg-white max-w-full mx-auto px-8 py-14">
       <h1 className="w-full text-[#222A8C] md:w-4/5 text-xl md:text-2xl font-bold">
         A Warm Welcome Awaits at Toziongate
       </h1>
