@@ -9,12 +9,11 @@ export async function generateStaticParams() {
   }))
 }
 
-type PageProps = {
-  params: { slug: string }
-}
-
-export default function Page({ params }: PageProps) {
-  const service = services.find((s) => s.slug === params.slug)
+export default async function Page({ params }: {
+  params: Promise<{ slug: string }>
+}) {
+  const { slug } = await params
+  const service = services.find((s) => s.slug === slug)
 
   if (!service) {
     notFound()

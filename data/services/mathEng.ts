@@ -2,7 +2,7 @@ import { Service } from "./types"
 
 export const mathEng: Service = {
   id: "functional-skills-maths-english",
-  slug: "math-english",
+  slug: "functional-skills-maths-english",
   data: {
     title: "Functional Skills Maths & English – Level 2",
     subtitle: "Gain Essential Skills for Work, Study, and Everyday Life",

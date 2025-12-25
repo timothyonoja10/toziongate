@@ -7,7 +7,7 @@ export const programmes = [
     image: "/home/international.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Speak With Us",
-    link: "/programmes/international-school-application",
+    link: "/services/international-school-application",
   },
   {
     title: "NHS & HSC Career Support",
@@ -16,7 +16,7 @@ export const programmes = [
     image: "/home/nurses.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Speak With Us",
-    link: "/programmes/hsc",
+    link: "/services/hsc",
   },
   {
     title: "UK-Accredited Training & Certifications",
@@ -25,7 +25,7 @@ export const programmes = [
     image: "/home/graduation.jpg",
     primaryCta: "Enroll Now",
     secondaryCta: "Speak With Us", 
-    link: "/programmes/uk-accreditted-training",
+    link: "/services/uk-accredited-training",
   },
   {
     title: "Professional CV & Personal Statements",
@@ -34,7 +34,7 @@ export const programmes = [
     image: "/home/cv.jpg",
     primaryCta: "Get Started",
     secondaryCta: "Speak With Us",
-    link: "/programmes/professional-cv-writingg",
+    link: "/services/professional-cv-personal-statements",
   },
   {
     title: "Academic & Postgraduate Support",
@@ -43,6 +43,6 @@ export const programmes = [
     image: "/home/writing.jpg",
     primaryCta: "Apply Now",
     secondaryCta: "Learn More",
-    link: "/programmes/postgraduate",
+    link: "/services/post-graduate",
   },
 ];
