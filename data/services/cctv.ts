@@ -4,6 +4,8 @@ export const cctv: Service = {
   id: "door-supervisor-and-cctv",
   slug: "door-suppervisor-and-cctv",
   data: {
+    image1: "/home/cctv.jpg",
+    image2: "/services/cctv-2.jpg",
     title: "Door Supervisor & CCTV Training",
     subtitle: "Professional Security Training for Licensed Roles in the UK",
     overview:

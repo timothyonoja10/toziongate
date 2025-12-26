@@ -4,10 +4,12 @@ export const level5dip: Service = {
   id: "level-5-health-social-care",
   slug: "level-5-diploma-health-social-care",
   data: {
+    image1: "/services/level3dip-1.jpg",
+    image2: "/services/level3dip-2.jpg",
     title: "Level 5 Diploma in Health & Social Care",
     subtitle: "Advance Your Career in Leadership and Management",
     overview:
-      "The Level 5 Diploma in Health & Social Care is an advanced, UK-accredited qualification designed for professionals aspiring to leadership, management, and supervisory roles within the health and social care sector. This programme equips learners with the knowledge, skills, and confidence required to deliver high-quality care while managing teams effectively.",
+      "It is designed for professionals aspiring to leadership, management, and supervisory roles within the health and social care sector. This programme equips learners with the knowledge, skills, and confidence required to deliver high-quality care while managing teams effectively.",
     about:
       "This diploma focuses on developing strategic leadership, operational management, and professional practice. Learners explore essential topics such as service delivery, care planning, regulatory compliance, and ethical leadership. The programme combines theoretical knowledge with practical application, ensuring readiness for senior roles in diverse health and social care environments.",
     whoNeedsThis: [

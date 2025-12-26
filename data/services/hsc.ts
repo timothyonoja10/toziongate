@@ -4,10 +4,12 @@ export const hsc: Service = {
   id: "hsc",
   slug: "hsc",
   data: {
+    image1: "/services/hsc-1.jpg",
+    image2: "/services/hsc-2.jpg",
     title: "NHS & HSC Career Support Programme",
     subtitle: "Your Trusted Pathway into UK Healthcare Careers",
     overview:
-      "The NHS & HSC Career Support Programme by Toziongate is designed to help individuals successfully secure employment opportunities within the UK’s National Health Service (NHS) and Health & Social Care (HSC) sector.\n\nWe provide expert guidance across every stage of the process—from eligibility assessment and role selection to application support, interview preparation, and compliance documentation—ensuring you are fully prepared to meet UK healthcare standards.",
+      "This programme is designed to help individuals successfully secure employment opportunities within the UK’s National Health Service (NHS) and Health & Social Care (HSC) sector. We provide expert guidance across every stage of the process, from eligibility assessment and role selection to application support, interview preparation, and compliance documentation. This ensures that you are fully prepared to meet UK healthcare standards.",
     about:
       "Entering the NHS and Health & Social Care sector requires a strong understanding of UK recruitment processes, professional standards, and regulatory requirements. Our programme simplifies this journey by offering tailored career guidance, application support, and role-specific preparation for healthcare and social care professionals.\n\nWhether you are applying from within the UK or internationally, Toziongate helps position you as a competitive candidate in the UK healthcare workforce.",
     whoNeedsThis: [

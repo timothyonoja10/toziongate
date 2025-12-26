@@ -4,10 +4,12 @@ export const postgraduate: Service = {
   id: "academic-postgraduate-support",
   slug: "post-graduate",
   data: {
+    image1: "/services/postgraduate-1.jpg",
+    image2: "/services/postgraduate-2.jpg",
     title: "Academic & Postgraduate Support",
     subtitle: "Expert Guidance for Academic Excellence and Advanced Study",
     overview:
-      "At Toziongate, we provide comprehensive academic and postgraduate support to help students succeed at every stage of their educational journey. From coursework guidance to dissertation assistance and postgraduate admissions, our services are designed to support quality, clarity, and confidence in your academic work.\n\nWe focus on ethical academic support, helping you understand requirements, structure your work effectively, and meet institutional standards.",
+      "We provide comprehensive academic and postgraduate support to help students succeed at every stage of their educational journey. From coursework guidance to dissertation assistance and postgraduate admissions, our services are designed to support quality, clarity, and confidence in your academic work.\n\nWe focus on ethical academic support, helping you understand requirements, structure your work effectively, and meet institutional standards.",
     about:
       "Academic demands can be challenging, especially at undergraduate and postgraduate levels. Our experienced academic consultants offer structured guidance and mentoring to help you develop strong, well-organised, and properly referenced academic work.\n\nWhether you are struggling with coursework, preparing a dissertation, or applying for a postgraduate programme, we provide personalised support aligned with UK and international academic expectations.",
     whoNeedsThis: [

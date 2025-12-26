@@ -6,8 +6,10 @@ export const internationalSchoolApplication: Service = {
   data: {
     title: "International School Application Support Programme",
     subtitle: "Your Pathway to Studying Abroad Starts Here",
+    image1: "/services/international-school-1.jpg",
+    image2: "/services/international-school-2.jpg",
     overview:
-      "The International School Application Support Programme by Toziongate is designed to help students and professionals successfully apply to top international schools and institutions across the UK, USA, and Canada.\n\nWe provide end-to-end guidance—from choosing the right institution and preparing strong applications to visa support and pre-departure preparation—ensuring a smooth and confident transition into international education.",
+      "Apply to top international schools and institutions across the UK, USA, and Canada. We can guide you and ensure a smooth and confident transition into international education.",
     about:
       "Applying to international schools can be complex and competitive. Our programme simplifies the process by offering personalised academic guidance, application support, and international admission expertise tailored to each applicant’s background and goals.\n\nToziongate works closely with applicants to ensure all documentation, personal statements, and submissions meet international standards, significantly improving acceptance outcomes.",
     whoNeedsThis: [

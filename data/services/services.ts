@@ -8,6 +8,7 @@ import { mathEng } from "./mathEng"
 import { postgraduate } from "./postgraduate"
 import { professionalCV } from "./professionalCV"
 import { ukTraining } from "./ukTraining"
+import { level5dip } from "./level5dip"
 
 export const services: Service[] = [
   internationalSchoolApplication,
@@ -18,5 +19,6 @@ export const services: Service[] = [
   level3dip,
   mathEng,
   cctv,
-  cscs
+  cscs,
+  level5dip
 ]

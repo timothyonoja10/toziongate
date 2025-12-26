@@ -4,6 +4,8 @@ export const mathEng: Service = {
   id: "functional-skills-maths-english",
   slug: "functional-skills-maths-english",
   data: {
+    image1: "/services/math-professor.jpg",
+    image2: "/services/english-professor.jpg",
     title: "Functional Skills Maths & English – Level 2",
     subtitle: "Gain Essential Skills for Work, Study, and Everyday Life",
     overview:

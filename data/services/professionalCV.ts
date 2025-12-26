@@ -4,12 +4,14 @@ export const professionalCV: Service = {
   id: "professional-cv-personal-statements",
   slug: "professional-cv-personal-statements",
   data: {
+    image1: "/services/cv-1.jpg",
+    image2: "/services/cv-2.jpg",
     title: "Professional CV & Personal Statements",
     subtitle: "Stand Out. Get Shortlisted. Secure Opportunities.",
     overview:
-      "At Toziongate, we provide expert CV writing and personal statement guidance tailored to UK employers, academic institutions, and regulated sectors such as healthcare, education, and security.\n\nOur service goes beyond formatting — we craft strategic, role-specific documents that clearly communicate your skills, experience, and value, helping you stand out in competitive application processes.",
+      "We provide expert CV writing and personal statement guidance tailored to global employers, academic institutions, and regulated sectors such as healthcare, education, and security.\n\nOur service goes beyond formatting. We craft strategic, role-specific documents that clearly communicate your skills, experience, and value. This will help you stand out in competitive application processes.",
     about:
-      "A strong CV or personal statement can determine whether your application is shortlisted or overlooked. Our career specialists work closely with you to produce professionally written, ATS-friendly documents that meet UK recruitment standards.\n\nWhether you are applying for jobs, training programmes, university admissions, or visa-related applications, we ensure your documents are clear, compelling, and aligned with the expectations of decision-makers.",
+      "A strong CV or personal statement can determine whether your application is shortlisted or overlooked. Our career specialists work closely with you to produce professionally written, ATS-friendly documents that meet global recruitment standards.\n\nWhether you are applying for jobs, training programmes, university admissions, or visa-related applications, we ensure your documents are clear, compelling, and aligned with the expectations of decision-makers.",
     whoNeedsThis: [
       {
         title: "Job Seekers & Career Changers",
@@ -85,6 +87,6 @@ export const professionalCV: Service = {
     careerOpportunities: [],
     furtherPathways: "",
     closing:
-      "Your CV and personal statement are your first impression — make them count. With Toziongate’s Professional CV & Personal Statements service, you gain documents that position you for success.\n\nBook a consultation today and take the next step in your career journey."
+      "Your CV and personal statement are your first impression. Make them count. With Toziongate’s Professional CV & Personal Statements service, you gain documents that position you for success.\n\nBook a consultation today and take the next step in your career journey."
   }
 }

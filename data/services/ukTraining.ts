@@ -4,12 +4,14 @@ export const ukTraining: Service = {
   id: "uk-accredited-training-certifications",
   slug: "uk-accredited-training",
   data: {
+    image1: "/services/uk-training-1.jpg",
+    image2: "/services/uk-training-2.jpg",
     title: "UK-Accredited Training & Certifications",
     subtitle: "Gain Recognised Qualifications. Unlock Real Career Opportunities.",
     overview:
-      "The UK-Accredited Training & Certifications Programme by Toziongate provides access to industry-recognised qualifications that enhance employability across healthcare, construction, security, and essential workplace skills.\n\nOur training pathways are designed to meet UK regulatory and employer standards, ensuring learners gain practical, credible certifications that are respected nationwide.",
+      "This programme provides access to industry-recognised qualifications that enhance employability across healthcare, construction, security, and essential workplace skills.\n\nOur training pathways are designed to meet UK regulatory and employer standards, ensuring learners gain practical, credible certifications that are respected nationwide.",
     about:
-      "Professional certifications are a critical requirement for securing employment and progressing within regulated UK industries. Through our trusted training partners, we offer accredited courses that equip learners with the skills, compliance knowledge, and credentials employers actively seek.\n\nWhether you are starting your career, upskilling, or meeting job requirements, Toziongate provides structured guidance to help you select and complete the right qualifications efficiently.",
+      "Professional certifications are a critical requirement for securing employment and progressing within regulated UK industries. Through our trusted training partners, we offer accredited courses that equip learners with the skills, compliance knowledge, and credentials employers actively seek.\n\nWhether you are starting your career, upskilling, or meeting job requirements, We provide structured guidance to help you select and complete the right qualifications efficiently.",
     whoNeedsThis: [
       {
         title: "Job Seekers & Entry-Level Candidates",

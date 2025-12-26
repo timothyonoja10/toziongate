@@ -33,6 +33,6 @@ export const courses = [
     description:
       "An advanced qualification designed for professionals seeking leadership and management roles within the health and social care sector.",
     image: "/home/level5dip.jpg",
-    link: "/services/level-5-health-social-care",
+    link: "/services/level-5-diploma-health-social-care",
   },
 ];

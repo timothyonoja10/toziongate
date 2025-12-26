@@ -11,6 +11,8 @@ export type ServiceData = {
   subtitle: string
   overview: string
   about: string
+  image1: string
+  image2: string
   whoNeedsThis: {
     title: string
     description: string

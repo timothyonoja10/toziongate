@@ -4,6 +4,8 @@ export const level3dip: Service = {
   id: "level-3-health-social-care",
   slug: "level-3-diploma-health-social-care",
   data: {
+    image1: "/services/level3dip-1.jpg",
+    image2: "/services/level3dip-2.jpg",
     title: "Level 3 Diploma in Health & Social Care",
     subtitle: "Build the Skills Needed for a Career in Health and Social Care",
     overview:

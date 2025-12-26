@@ -4,6 +4,8 @@ export const cscs: Service = {
   id: "cscs",
   slug: "cscs",
   data: {
+    image1: "/home/construction.jpg",
+    image2: "/services/construction-1.jpg",
     title: "CSCS Certification (CITB & GQA)",
     subtitle: "Gain Essential Construction Safety Credentials for UK Sites",
     overview:
