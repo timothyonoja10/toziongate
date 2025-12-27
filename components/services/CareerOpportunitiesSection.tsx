@@ -8,7 +8,7 @@ export default function CareerOpportunitiesSection({ jobs }: Props) {
   return (
     <section className="py-16 px-4 md:px-8">
       <div className="mx-auto max-w-4xl">
-        <h2 className="mb-8 text-center text-2xl font-bold md:text-3xl">
+        <h2 className="mb-8 text-[#222086] text-center text-2xl font-bold md:text-3xl">
           Career Opportunities
         </h2>
 
@@ -16,7 +16,7 @@ export default function CareerOpportunitiesSection({ jobs }: Props) {
           {jobs.map((job, index) => (
             <div
               key={index}
-              className="rounded-lg bg-white p-4 shadow-sm border-1 border-[#FF0066]"
+              className="text-black rounded-lg bg-white p-4 shadow-sm border-1 border-[#FF0066]"
             >
               {job}
             </div>
