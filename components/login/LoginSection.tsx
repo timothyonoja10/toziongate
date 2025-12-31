@@ -6,8 +6,11 @@ import FormInput from "../contact/FormInput";
 import SubmitButton from "./SubmitButton";
 import { useActionState } from "react";
 import FormPasswordInput from "./FormPasswordInput";
+import type { LoginFormState } from "@/app/actions/login";
 
-const initialState = { status: "idle", message: "" };
+const initialState: LoginFormState = {
+  status: "idle",
+};
 
 export default function LoginSection() {
   const [state, formAction] = useActionState(submitLoginForm, initialState);

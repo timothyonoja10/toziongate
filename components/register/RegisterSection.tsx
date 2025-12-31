@@ -8,8 +8,11 @@ import SubmitButton from "./SubmitButton";
 import { useActionState } from "react";
 import FormPasswordInput from "./FormPasswordInput";
 import ConfirmPasswordInput from "./ConfirmPasswordInput";
+import type { RegisterFormState } from "@/app/actions/register";
 
-const initialState = { status: "idle", message: "" };
+const initialState: RegisterFormState = {
+  status: "idle",
+};
 
 export default function RegisterSection() {
   const [state, formAction] = useActionState(submitRegisterForm, initialState);
