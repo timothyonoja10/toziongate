@@ -28,7 +28,7 @@ export default function LoginSection() {
             <h2 className="my-4 text-3xl font-semibold text-[#FF0066]">
               Welcome Back!
             </h2>
-            <h2 className="mb-8 text-xm">
+            <h2 className="text-black mb-8 text-xm">
               Enter your student account details below to log in.
             </h2>
 
