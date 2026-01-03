@@ -16,17 +16,20 @@ export default function LoginSection() {
   const [state, formAction] = useActionState(submitLoginForm, initialState);
   
   return (
-    <section className="w-full bg-white px-4 py-10 md:px-12 lg:px-20">
-      <div className="mx-auto max-w-7xl grid grid-cols-1 gap-12 md:grid-cols-5">
+    <section className="w-full bg-white px-4 pt-4 md:px-12 lg:px-20">
+      <div className="mx-auto max-w-7xl grid grid-cols-1 gap-2 md:gap-0 md:grid-cols-2">
 
         {/* ================= GET IN TOUCH ================= */}
-        <div className="bg-white md:col-span-3">
+        <div className="bg-white">
 
           <form action={formAction} noValidate aria-describedby="form-status"
             className="border border-[#FF0066] p-4">
 
-            <h2 className="my-4 text-xl font-semibold text-[#FF0066]">
-              Login
+            <h2 className="my-4 text-3xl font-semibold text-[#FF0066]">
+              Welcome Back!
+            </h2>
+            <h2 className="mb-8 text-xm">
+              Enter your student account details below to log in.
             </h2>
 
             {/* Email */}
@@ -53,8 +56,12 @@ export default function LoginSection() {
         </div>
 
         {/* ================= Image ================= */}
-        <div className="bg-white md:col-span-2">
-          
+        <div className="-mx-4 md:-mx-0">
+          <img
+            src="/auth.jpg"
+            alt="Login illustration"
+            className="h-full w-full object-cover"
+          />
         </div>
       </div>
     </section>
