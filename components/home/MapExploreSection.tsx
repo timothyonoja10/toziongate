@@ -8,8 +8,12 @@ export default function MapExploreSecton() {
                 
         {/* Map (comes first on mobile) */}
         <div className="md:col-span-2 rounded-lg overflow-hidden shadow">
-          <iframe title="Toziongate Location" loading="lazy" className="w-full h-[300px] md:h-full"
-            src="https://www.google.com/maps?q=Dagenham,Essex,UK&output=embed"/>
+          <iframe
+            title="Toziongate Location"
+            loading="lazy"
+            className="w-full h-[300px] md:h-full"
+            src="https://www.google.com/maps?q=Barking+and+Dagenham,UK&output=embed"
+          />
         </div>
       
         {/* Card */}

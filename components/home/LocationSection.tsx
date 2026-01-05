@@ -18,7 +18,7 @@ export default function LocationSecton() {
       <div className="mt-6 flex flex-col items-center gap-2 text-gray-700">
         <MapPin className="h-6 w-6 text-blue-600" />
           <p className="text-sm md:text-base">
-            Dagenham, Essex, East London, United Kingdom
+            Barking and Dagenham, United Kingdom
           </p>
       </div>
           
