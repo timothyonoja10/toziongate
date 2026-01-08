@@ -90,7 +90,7 @@ export default function ContactSection() {
             Office Address
           </h3>
           <p className="mb-6 text-gray-700 text-xs">
-            First Floor Office, 3 Hornton Place, London W8 4LZ
+            Barking and Dagenham, United Kingdom
           </p>
 
           <h3 className="mb-4 text-md font-semibold text-[#222A8C]">
